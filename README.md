@@ -56,6 +56,7 @@ This section is under construction (I want to find a cool template) but listing 
 - Techlead Product Enginner Blockchain  at Mercado Bitcoin
 - Educational Specialist at Gama Academy
 - Techlead at Gama Academy
+- EVANDRO FEZ ESTA ALTERAÇÃO - TESTE APENAS
 
 
 that's all, folks! Finally my numbers here on github.
